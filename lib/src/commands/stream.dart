@@ -1,6 +1,8 @@
 // Copyright (c) 2020-Present, Juan Mellado. All rights reserved. Use of this
 // source is governed by a MIT-style license found in the LICENSE file.
 
+// @dart=2.9
+
 import 'dart:async' show Future;
 import 'dart:collection' show LinkedHashMap;
 
